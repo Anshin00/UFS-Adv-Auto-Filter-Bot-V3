@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3">
+<a href="https://heroku.com/deploy?template=https://github.com/Anshin00/UFS-Adv-Auto-Filter-Bot-V3">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://t.me/joinchat/YS-WlsUC9nFiOWM0) For Support/Assistance And Our [Channel](https://t.me/joinchat/7qlEga5lO0o2MTg0) For Updates.   
+Join Our [Telegram Group](https://t.me/MVWORLDSPK) For Support/Assistance And Our [Channel](https://t.me/joinchat/7qlEga5lO0o2MTg0) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
